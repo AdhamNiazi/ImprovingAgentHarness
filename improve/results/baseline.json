@@ -1,0 +1,193 @@
+{
+  "stats": {
+    "accuracy": 0.15,
+    "ci_95_low": 0.0,
+    "ci_95_high": 0.3,
+    "n": 20,
+    "correct": 3,
+    "elapsed_s": 694.1,
+    "config": "baseline"
+  },
+  "predictions": [
+    {
+      "idx": 0,
+      "label": 3,
+      "pred": 0,
+      "correct": 0,
+      "question": "A man is sitting on a roof. he",
+      "pred_label": "A",
+      "true_label": "D"
+    },
+    {
+      "idx": 1,
+      "label": 3,
+      "pred": 0,
+      "correct": 0,
+      "question": "A lady walks to a barbell. She bends down and grabs the pole. the lady",
+      "pred_label": "A",
+      "true_label": "D"
+    },
+    {
+      "idx": 2,
+      "label": 2,
+      "pred": 0,
+      "correct": 0,
+      "question": "Two women in a child are shown in a canoe while a man pulls the canoe while standing in the water, w",
+      "pred_label": "A",
+      "true_label": "C"
+    },
+    {
+      "idx": 3,
+      "label": 2,
+      "pred": 0,
+      "correct": 0,
+      "question": "A boy is running down a track. the boy",
+      "pred_label": "A",
+      "true_label": "C"
+    },
+    {
+      "idx": 4,
+      "label": 1,
+      "pred": 0,
+      "correct": 0,
+      "question": "The boy lifts his body above the height of a pole. The boy lands on his back on to a red mat. the bo",
+      "pred_label": "A",
+      "true_label": "B"
+    },
+    {
+      "idx": 5,
+      "label": 1,
+      "pred": 0,
+      "correct": 0,
+      "question": "The boy lands on his back on to a red mat. The boy gets up from the mat. the boy",
+      "pred_label": "A",
+      "true_label": "B"
+    },
+    {
+      "idx": 6,
+      "label": 2,
+      "pred": 0,
+      "correct": 0,
+      "question": "A man is standing in front of a camera. He starts playing a harmonica for the camera. he",
+      "pred_label": "A",
+      "true_label": "C"
+    },
+    {
+      "idx": 7,
+      "label": 0,
+      "pred": 0,
+      "correct": 1,
+      "question": "A cartoon animation video is shown with people wandering around and rockets being shot. two men",
+      "pred_label": "A",
+      "true_label": "A"
+    },
+    {
+      "idx": 8,
+      "label": 1,
+      "pred": 0,
+      "correct": 0,
+      "question": "A man is holding a pocket knife while sitting on some rocks in the wilderness. then he",
+      "pred_label": "A",
+      "true_label": "B"
+    },
+    {
+      "idx": 9,
+      "label": 1,
+      "pred": 0,
+      "correct": 0,
+      "question": "Then he takes a small stone from the flowing river and smashes it on another stone. He starts to cru",
+      "pred_label": "A",
+      "true_label": "B"
+    },
+    {
+      "idx": 10,
+      "label": 3,
+      "pred": 0,
+      "correct": 0,
+      "question": "Then he takes a piece of bark and rubs the powered stone pieces onto it. The stone particles stick t",
+      "pred_label": "A",
+      "true_label": "D"
+    },
+    {
+      "idx": 11,
+      "label": 3,
+      "pred": 0,
+      "correct": 0,
+      "question": "The stone particles stick to the wet piece of wood. He then takes the knife and sharpens it against ",
+      "pred_label": "A",
+      "true_label": "D"
+    },
+    {
+      "idx": 12,
+      "label": 2,
+      "pred": 0,
+      "correct": 0,
+      "question": "He then takes the knife and sharpens it against the wood piece. He then notices a little black and g",
+      "pred_label": "A",
+      "true_label": "C"
+    },
+    {
+      "idx": 13,
+      "label": 2,
+      "pred": 0,
+      "correct": 0,
+      "question": "He then notices a little black and green poisonous frog sitting next to him. The frog then escapes a",
+      "pred_label": "A",
+      "true_label": "C"
+    },
+    {
+      "idx": 14,
+      "label": 0,
+      "pred": 0,
+      "correct": 1,
+      "question": "A person is playing bagpipes out in a park. A man and two boys watching from a far. the camera",
+      "pred_label": "A",
+      "true_label": "A"
+    },
+    {
+      "idx": 15,
+      "label": 3,
+      "pred": 0,
+      "correct": 0,
+      "question": "Two people are seen passing a ball back and fourth in a pool and leads into one speaking to the came",
+      "pred_label": "A",
+      "true_label": "D"
+    },
+    {
+      "idx": 16,
+      "label": 2,
+      "pred": 0,
+      "correct": 0,
+      "question": "A woman is sitting at a table in a fast food restaurant while eating. She continually speaks to nobo",
+      "pred_label": "A",
+      "true_label": "C"
+    },
+    {
+      "idx": 17,
+      "label": 0,
+      "pred": 0,
+      "correct": 1,
+      "question": "A group of cheerleaders run onto a stage before a cheering audience. they",
+      "pred_label": "A",
+      "true_label": "A"
+    },
+    {
+      "idx": 18,
+      "label": 1,
+      "pred": 0,
+      "correct": 0,
+      "question": "A group of cheerleaders run onto a stage before a cheering audience. They get into formation, then b",
+      "pred_label": "A",
+      "true_label": "B"
+    },
+    {
+      "idx": 19,
+      "label": 1,
+      "pred": 0,
+      "correct": 0,
+      "question": "They get into formation, then begin dancing and flipping as male cheerleaders join them. They all co",
+      "pred_label": "A",
+      "true_label": "B"
+    }
+  ]
+}

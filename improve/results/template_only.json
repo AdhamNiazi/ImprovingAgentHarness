@@ -1,0 +1,463 @@
+{
+  "stats": {
+    "accuracy": 0.3,
+    "ci_95_low": 0.18,
+    "ci_95_high": 0.44,
+    "n": 50,
+    "correct": 15,
+    "elapsed_s": 444.2,
+    "config": "template_only"
+  },
+  "predictions": [
+    {
+      "idx": 0,
+      "label": 3,
+      "pred": 0,
+      "correct": 0,
+      "question": "A man is sitting on a roof. he",
+      "pred_label": "A",
+      "true_label": "D"
+    },
+    {
+      "idx": 1,
+      "label": 3,
+      "pred": 0,
+      "correct": 0,
+      "question": "A lady walks to a barbell. She bends down and grabs the pole. the lady",
+      "pred_label": "A",
+      "true_label": "D"
+    },
+    {
+      "idx": 2,
+      "label": 2,
+      "pred": 0,
+      "correct": 0,
+      "question": "Two women in a child are shown in a canoe while a man pulls the canoe while standing in the water, w",
+      "pred_label": "A",
+      "true_label": "C"
+    },
+    {
+      "idx": 3,
+      "label": 2,
+      "pred": 0,
+      "correct": 0,
+      "question": "A boy is running down a track. the boy",
+      "pred_label": "A",
+      "true_label": "C"
+    },
+    {
+      "idx": 4,
+      "label": 1,
+      "pred": 0,
+      "correct": 0,
+      "question": "The boy lifts his body above the height of a pole. The boy lands on his back on to a red mat. the bo",
+      "pred_label": "A",
+      "true_label": "B"
+    },
+    {
+      "idx": 5,
+      "label": 1,
+      "pred": 0,
+      "correct": 0,
+      "question": "The boy lands on his back on to a red mat. The boy gets up from the mat. the boy",
+      "pred_label": "A",
+      "true_label": "B"
+    },
+    {
+      "idx": 6,
+      "label": 2,
+      "pred": 0,
+      "correct": 0,
+      "question": "A man is standing in front of a camera. He starts playing a harmonica for the camera. he",
+      "pred_label": "A",
+      "true_label": "C"
+    },
+    {
+      "idx": 7,
+      "label": 0,
+      "pred": 0,
+      "correct": 1,
+      "question": "A cartoon animation video is shown with people wandering around and rockets being shot. two men",
+      "pred_label": "A",
+      "true_label": "A"
+    },
+    {
+      "idx": 8,
+      "label": 1,
+      "pred": 0,
+      "correct": 0,
+      "question": "A man is holding a pocket knife while sitting on some rocks in the wilderness. then he",
+      "pred_label": "A",
+      "true_label": "B"
+    },
+    {
+      "idx": 9,
+      "label": 1,
+      "pred": 0,
+      "correct": 0,
+      "question": "Then he takes a small stone from the flowing river and smashes it on another stone. He starts to cru",
+      "pred_label": "A",
+      "true_label": "B"
+    },
+    {
+      "idx": 10,
+      "label": 3,
+      "pred": 0,
+      "correct": 0,
+      "question": "Then he takes a piece of bark and rubs the powered stone pieces onto it. The stone particles stick t",
+      "pred_label": "A",
+      "true_label": "D"
+    },
+    {
+      "idx": 11,
+      "label": 3,
+      "pred": 0,
+      "correct": 0,
+      "question": "The stone particles stick to the wet piece of wood. He then takes the knife and sharpens it against ",
+      "pred_label": "A",
+      "true_label": "D"
+    },
+    {
+      "idx": 12,
+      "label": 2,
+      "pred": 0,
+      "correct": 0,
+      "question": "He then takes the knife and sharpens it against the wood piece. He then notices a little black and g",
+      "pred_label": "A",
+      "true_label": "C"
+    },
+    {
+      "idx": 13,
+      "label": 2,
+      "pred": 0,
+      "correct": 0,
+      "question": "He then notices a little black and green poisonous frog sitting next to him. The frog then escapes a",
+      "pred_label": "A",
+      "true_label": "C"
+    },
+    {
+      "idx": 14,
+      "label": 0,
+      "pred": 0,
+      "correct": 1,
+      "question": "A person is playing bagpipes out in a park. A man and two boys watching from a far. the camera",
+      "pred_label": "A",
+      "true_label": "A"
+    },
+    {
+      "idx": 15,
+      "label": 3,
+      "pred": 0,
+      "correct": 0,
+      "question": "Two people are seen passing a ball back and fourth in a pool and leads into one speaking to the came",
+      "pred_label": "A",
+      "true_label": "D"
+    },
+    {
+      "idx": 16,
+      "label": 2,
+      "pred": 0,
+      "correct": 0,
+      "question": "A woman is sitting at a table in a fast food restaurant while eating. She continually speaks to nobo",
+      "pred_label": "A",
+      "true_label": "C"
+    },
+    {
+      "idx": 17,
+      "label": 0,
+      "pred": 0,
+      "correct": 1,
+      "question": "A group of cheerleaders run onto a stage before a cheering audience. they",
+      "pred_label": "A",
+      "true_label": "A"
+    },
+    {
+      "idx": 18,
+      "label": 1,
+      "pred": 0,
+      "correct": 0,
+      "question": "A group of cheerleaders run onto a stage before a cheering audience. They get into formation, then b",
+      "pred_label": "A",
+      "true_label": "B"
+    },
+    {
+      "idx": 19,
+      "label": 1,
+      "pred": 1,
+      "correct": 1,
+      "question": "They get into formation, then begin dancing and flipping as male cheerleaders join them. They all co",
+      "pred_label": "B",
+      "true_label": "B"
+    },
+    {
+      "idx": 20,
+      "label": 1,
+      "pred": 0,
+      "correct": 0,
+      "question": "A woman is reading a newspaper nearby while he speaks to her and shows her something in his hand. Th",
+      "pred_label": "A",
+      "true_label": "B"
+    },
+    {
+      "idx": 21,
+      "label": 0,
+      "pred": 0,
+      "correct": 1,
+      "question": "A man is outside of a building. He is using commercial lawn mowing equipment. he",
+      "pred_label": "A",
+      "true_label": "A"
+    },
+    {
+      "idx": 22,
+      "label": 3,
+      "pred": 0,
+      "correct": 0,
+      "question": "Children bring desert out for their family member. the family",
+      "pred_label": "A",
+      "true_label": "D"
+    },
+    {
+      "idx": 23,
+      "label": 3,
+      "pred": 0,
+      "correct": 0,
+      "question": "The family enjoys eating the desert together. The people in the restaurant laugh at the man and he w",
+      "pred_label": "A",
+      "true_label": "D"
+    },
+    {
+      "idx": 24,
+      "label": 0,
+      "pred": 0,
+      "correct": 1,
+      "question": "A black female is shown in a room with a black scarf around her head. black spots on her faced",
+      "pred_label": "A",
+      "true_label": "A"
+    },
+    {
+      "idx": 25,
+      "label": 3,
+      "pred": 0,
+      "correct": 0,
+      "question": "A black female is shown in a room with a black scarf around her head. Black spots on her faced are t",
+      "pred_label": "A",
+      "true_label": "D"
+    },
+    {
+      "idx": 26,
+      "label": 0,
+      "pred": 0,
+      "correct": 1,
+      "question": "A helicopter flies in some people who then start playing paintball. they",
+      "pred_label": "A",
+      "true_label": "A"
+    },
+    {
+      "idx": 27,
+      "label": 3,
+      "pred": 0,
+      "correct": 0,
+      "question": "A young boy and girl are standing over a sink with their mother talking. the mother",
+      "pred_label": "A",
+      "true_label": "D"
+    },
+    {
+      "idx": 28,
+      "label": 1,
+      "pred": 0,
+      "correct": 0,
+      "question": "A young boy and girl are standing over a sink with their mother talking. The mother instructs them o",
+      "pred_label": "A",
+      "true_label": "B"
+    },
+    {
+      "idx": 29,
+      "label": 3,
+      "pred": 0,
+      "correct": 0,
+      "question": "The mother instructs them on how to brush their teeth while laughing. The boy helps his younger sist",
+      "pred_label": "A",
+      "true_label": "D"
+    },
+    {
+      "idx": 30,
+      "label": 1,
+      "pred": 0,
+      "correct": 0,
+      "question": "She gets them some water to gargle in their mouths. The boy and girl begin playing in the sink. the ",
+      "pred_label": "A",
+      "true_label": "B"
+    },
+    {
+      "idx": 31,
+      "label": 0,
+      "pred": 0,
+      "correct": 1,
+      "question": "A cat is sitting in a cat bed. It is licking its paw. it",
+      "pred_label": "A",
+      "true_label": "A"
+    },
+    {
+      "idx": 32,
+      "label": 1,
+      "pred": 0,
+      "correct": 0,
+      "question": "A man in brown jacket is pulling out an arrow from the target board, then he was talking to the came",
+      "pred_label": "A",
+      "true_label": "B"
+    },
+    {
+      "idx": 33,
+      "label": 2,
+      "pred": 0,
+      "correct": 0,
+      "question": "A man walks outside plugs his lawn mower in and gets ready to mow. he",
+      "pred_label": "A",
+      "true_label": "C"
+    },
+    {
+      "idx": 34,
+      "label": 0,
+      "pred": 0,
+      "correct": 1,
+      "question": "A man walks outside plugs his lawn mower in and gets ready to mow. He starts mowing his lawn casuall",
+      "pred_label": "A",
+      "true_label": "A"
+    },
+    {
+      "idx": 35,
+      "label": 0,
+      "pred": 0,
+      "correct": 1,
+      "question": "He starts mowing his lawn casually going over all the grass. His dog comes outside and starts to fol",
+      "pred_label": "A",
+      "true_label": "A"
+    },
+    {
+      "idx": 36,
+      "label": 3,
+      "pred": 0,
+      "correct": 0,
+      "question": "A sea is shown with a green forest on seashore. Blond man is standing in seashore and talking to the",
+      "pred_label": "A",
+      "true_label": "D"
+    },
+    {
+      "idx": 37,
+      "label": 2,
+      "pred": 0,
+      "correct": 0,
+      "question": "We see a bottle of face wash. we",
+      "pred_label": "A",
+      "true_label": "C"
+    },
+    {
+      "idx": 38,
+      "label": 2,
+      "pred": 0,
+      "correct": 0,
+      "question": "We see a person holding face wash then putting it on their face. They rinse the face and add the fac",
+      "pred_label": "A",
+      "true_label": "C"
+    },
+    {
+      "idx": 39,
+      "label": 1,
+      "pred": 1,
+      "correct": 1,
+      "question": "A person is seen throwing plaster onto a wall while the camera follows the person close behind. the ",
+      "pred_label": "B",
+      "true_label": "B"
+    },
+    {
+      "idx": 40,
+      "label": 2,
+      "pred": 0,
+      "correct": 0,
+      "question": "More and more people begin talking and each of them has a bottle of sun screen and starts to squirt ",
+      "pred_label": "A",
+      "true_label": "C"
+    },
+    {
+      "idx": 41,
+      "label": 2,
+      "pred": 0,
+      "correct": 0,
+      "question": "A group of boys are standing in a room with many clear cups of beer on a table they are all standing",
+      "pred_label": "A",
+      "true_label": "C"
+    },
+    {
+      "idx": 42,
+      "label": 3,
+      "pred": 0,
+      "correct": 0,
+      "question": "The boys talk, laugh and tease each other before beginning a game of beer pong across a long table u",
+      "pred_label": "A",
+      "true_label": "D"
+    },
+    {
+      "idx": 43,
+      "label": 2,
+      "pred": 0,
+      "correct": 0,
+      "question": "One of the ping pongs lands in the cup and one of the boys begins to drink the beer. the group",
+      "pred_label": "A",
+      "true_label": "C"
+    },
+    {
+      "idx": 44,
+      "label": 0,
+      "pred": 0,
+      "correct": 1,
+      "question": "There's a nbc news reporter wearing a red sweater and white shirt talking about dog grooming by scis",
+      "pred_label": "A",
+      "true_label": "A"
+    },
+    {
+      "idx": 45,
+      "label": 0,
+      "pred": 0,
+      "correct": 1,
+      "question": "The representative from the company is talking about the services they offer and how those dogs part",
+      "pred_label": "A",
+      "true_label": "A"
+    },
+    {
+      "idx": 46,
+      "label": 0,
+      "pred": 0,
+      "correct": 1,
+      "question": "A woman tries to eat ice cream to a child, but the child refuses to eat the ice cream, then the woma",
+      "pred_label": "A",
+      "true_label": "A"
+    },
+    {
+      "idx": 47,
+      "label": 0,
+      "pred": 0,
+      "correct": 1,
+      "question": "After, the woman gives ice cream to the child, and then the woman cleans the child's mouth. an old w",
+      "pred_label": "A",
+      "true_label": "A"
+    },
+    {
+      "idx": 48,
+      "label": 3,
+      "pred": 0,
+      "correct": 0,
+      "question": "Men are lifting heavy weights over their head several times. A man in a blue shirt is watching one o",
+      "pred_label": "A",
+      "true_label": "D"
+    },
+    {
+      "idx": 49,
+      "label": 2,
+      "pred": 0,
+      "correct": 0,
+      "question": "In home pet groomers demonstrate how to groom a pet. the person",
+      "pred_label": "A",
+      "true_label": "C"
+    }
+  ]
+}

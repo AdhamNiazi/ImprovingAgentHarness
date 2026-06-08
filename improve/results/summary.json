@@ -1,0 +1,11 @@
+{
+  "baseline": {
+    "accuracy": 0.15,
+    "ci_95_low": 0.0,
+    "ci_95_high": 0.3,
+    "n": 20,
+    "correct": 3,
+    "elapsed_s": 694.1,
+    "config": "baseline"
+  }
+}
